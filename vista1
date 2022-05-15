@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!--<meta charset="utf-8" /> -->
+        <link rel="stylesheet" href="style.css" />
+        <!--[if lt IE 9]>
+        // <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        
+        <title>Medicina Ocupacional</title>
+    </head>
+     <!--[if IE 6 ]><body class="ie6 old_ie"><![endif]-->
+    <!--[if IE 7 ]><body class="ie7 old_ie"><![endif]-->
+    <!--[if IE 8 ]><body class="ie8"><![endif]-->
+    <!--[if IE 9 ]><body class="ie9"><![endif]-->
+    <!--[if !IE]><!--><body><!--<![endif]-->
+    
+        <div id="main_wrapper">
+            <header>
+                <div id="main_title">
+                    
+                    <h1>Doctor virtual</h1>
+                    <h2>Doctor virtual</h2>
+                </div>
+                
+                <nav>
+                    <ul>
+                        <li><a href="index.html">Inicio</a></li>
+                        <li><a href="#">Servicio</a></li>
+                        <li><a href="contactos.html">Contactos</a></li>
+                    </ul>
+                </nav>
+            </header>
+            
+            <div id="banner_image">
+                <div id="banner_description">
+                    Medicina Ocupacional Dra. Mónica Herrera...
+                    
+                </div>
+            </div>
+            
+            <section>
+                <article>
+                    <h1>CAPACITACIONES</h1>
+
+                    <p>En la Oficina de Salud Ocupacional contamos con más de 30 años de experiencia en la capacitación en el área de la seguridad e higiene industrial, ofrecemos cursos a supervisores, mandos medios y directivos.
+
+En los últimos 8 años incluimos en nuestro programa de servicios, la capacitación especializada al personal de las empresas, en él se encuentran los cursos para realizar las evaluaciones especializadas más frecuentes señaladas en las normas respectivas, de manera que ahora las empresas que cuentan con personal en el área de la seguridad e higiene (enfermeras, médicos, ingenieros o el designado por la empresa) y que requieren de conocimientos y habilidades, puedan adquirirlos para que sean ellos mismos los que realicen dichas evaluaciones, lo anterior permite disminuir en más del 50% los costos de las mismas. Nuestro instructor y los cursos están registrados ante la STPS. Ofrecemos precios competitivos de nuestros servicios de capacitación, Para mayor información consulte nuestra página de internet o a los teléfonos que aparecen en la misma. </p>
+
+                     
+                    
+                </article>
+                <aside>
+                    <h1>Acerca del autor</h1>
+
+                    <img src="images/arrow.png" alt="" id="arrow" />
+                    <p id="Andres"><img src="images/Andres.png" alt="Andres Picture" /></p>
+                    <p>Mi nombre es Jeferson Andres Flores Vallejo, soy estudiante de Ing. en TICs de la UTPL.</p>
+                    
+                    <p><img src="images/facebook.png" alt="Facebook" /><img src="images/twitter.png" alt="Twitter" /><img src="images/vimeo.png" alt="Vimeo" /><img src="images/flickr.png" alt="Flickr" /><img src="images/rss.png" alt="RSS" /></p>
+                </aside>
+            </section>
+           
+            <h2>VIDEO </h2>
+
+  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dXsBur4Rsis" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<h2>CANCION MP3</h2>
+
+<audio controls>
+    <source src="cancion.ogg" type="audio/ogg">
+    <source src="cancion.mp3" type="audio/mpeg">
+    <source src="cancion.wav" type="audio/wav">
+</audio>
+<br> </br>
+
+</div> 
+
+
+
+
+
+
+<footer>
+                <div id="tweet">
+                    <h1>Mi ultimo tweet</h1>
+                    <p>Hoy!</p>
+                    <p>23/05/2022 13:00</p>
+                </div>
+                <div id="my_pictures">
+                    <h1>Mis imagenes</h1>
+                    <p><img src="images/pic1.jpg" alt="Picture" /><img src="images/pic2.jpg" alt="Picture" /><img src="images/pic3.jpg" alt="Picture" /><img src="images/pic4.jpg" alt="Picture" /></p>
+                </div>
+                <div id="my_friends">
+                    <h1>Mis Amigos</h1>
+                    <ul>
+                        <li><a href="#">OQMED</a></li>
+                        <li><a href="#">Ecua American</a></li>
+                        <li><a href="#">Metrored</a></li>
+                        <li><a href="#">BIODIMED</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="#">ECOSOFT</a></li>
+                        <li><a href="#">MEDIRIO</a></li>
+                        <li><a href="#">RIOMED</a></li>
+                        <li><a href="#">ERGONOMIA</a></li>
+                    </ul>
+                </div>
+            </footer>
+        
+    </body>
+</html>
